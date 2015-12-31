@@ -1,0 +1,22 @@
+//
+//  Edward.pch
+//  自定义扫描二维码
+//
+//  Created by centling on 15/12/31.
+//  Copyright © 2015年 Edward. All rights reserved.
+//
+
+#ifndef Edward_pch
+#define Edward_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+
+
+
+#endif /* Edward_pch */
